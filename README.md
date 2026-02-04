@@ -18,3 +18,12 @@ After downloading the `.h5` file, put it in the project directory and load it in
 from tensorflow.keras.models import load_model
 
 model = load_model("final_signature_verification.h5")
+
+## Team Members
+
+- @Deepthi-0503
+- @Pallavi-1809 
+- @Niharika-567
+
+-
+
